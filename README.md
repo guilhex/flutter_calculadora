@@ -88,12 +88,6 @@ Para rodar em um emulador ou celular Android, use `flutter devices` para listar 
 
 ---
 
-## 📚 Contexto acadêmico
-
-Projeto desenvolvido para a disciplina **NOME_DA_DISCIPLINA**, sob orientação do(a) professor(a) **NOME_DO_PROFESSOR**.
-
----
-
 ## 📄 Licença
 
 Projeto de finalidade educacional.
