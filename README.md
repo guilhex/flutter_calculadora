@@ -18,10 +18,8 @@ O projeto aplica os conceitos vistos em aula: **StatefulWidget**, **StatelessWid
 ---
 
 ## 📸 Preview
-
-> Adicione aqui um print da tela. Salve a imagem em uma pasta `docs/` e use:
 >
-> `![Calculadora](docs/print.png)`
+> ![Calculadora](image.png)
 
 ---
 
@@ -87,19 +85,6 @@ flutter run -d chrome
 ```
 
 Para rodar em um emulador ou celular Android, use `flutter devices` para listar os dispositivos e `flutter run` para executar.
-
----
-
-## 👩‍💻 Autora
-
-**Guila**
-Estudante de Sistemas de Informação – Instituto Federal Goiano, Campus Urutaí
-
----
-
-## 📚 Contexto acadêmico
-
-Projeto desenvolvido para a disciplina **NOME_DA_DISCIPLINA**, sob orientação do(a) professor(a) **NOME_DO_PROFESSOR**.
 
 ---
 
